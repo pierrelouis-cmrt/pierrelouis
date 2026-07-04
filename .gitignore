@@ -20,3 +20,5 @@ dist/
 .env.production.local
 
 .vscode/
+
+.claude/
